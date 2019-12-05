@@ -51,13 +51,10 @@ docs-en:
         url: /quan-ly-truy-vet
       - title: Quản lý truy cập
         url: /quan-ly-truy-cap
-<<<<<<< HEAD
       - title: Quản lý nhóm người dùng
         url: /quan-ly-nhom-nguoi-dung
       - title: Quản lý người dùng
         url: /quan-ly-nguoi-dung
-        
-=======
       - title: Quy định hệ thống
         url: /quy-dinh-he-thong
       - title: Quản lý lịch
@@ -68,17 +65,7 @@ docs-en:
         url: /quan-ly-cau-hinh-ftp
       - title: Quản lý chức năng
         url: /quan-ly-chuc-nang
-      
 
-      
-      
-      
-      
-      
-      
-      
-      
->>>>>>> thay đổi thứ tự
 
 sidebar:
   nav: docs-en
